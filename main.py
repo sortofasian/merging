@@ -1,4 +1,4 @@
 def main():
-  print("{Main branch}")
+  print("{Merge-conflict branch}") # Combine with main to show a combination of both main and merge-conflict
 
 # This is from the main branch
